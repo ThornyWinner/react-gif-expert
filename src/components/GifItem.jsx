@@ -18,6 +18,7 @@ GifItem.propTypes = {
 1. Añadir PropTypes   ????? yarn add
     a. title obligatorio
     b. url obligatorio
+    
 
 2. Evaluar el snapshot
 
